@@ -1,0 +1,62 @@
+#highscore-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 20px;
+    width: 150px;
+    height: 75px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+#countdown {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: right;
+    margin: 20px;
+    width: 150px;
+    height: 75px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+.container{
+    margin:auto;
+    width: 50%;
+    text-align: center;
+  }
+
+h1 {
+    font-size: 36px;
+    margin-top: 35px;
+}
+
+h2 {
+    font-size: 20;
+}
+
+h3 {
+    color: gray;
+}
+
+h4 {
+    font-size: 36px;
+}
+
+button {
+    margin: 10px;
+    background-color: blueviolet;
+    font-size: 16px;
+    border-radius: 10px;
+    color: white;
+}
+
+.left {
+    float:left;
+}
+
+#high-score-header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50;
+}
